@@ -1,2 +1,2 @@
-# NASA-RMC-2015-2016
-Auburn University competes in NASA's Robotic Mining Competition.  The team which is a part of Space Club and affiliated with SPARC designs, builds, and programs a robot that excavates the simulated basaltic regolith and the ice on a small arena.
+# Quadcopter
+As one of SPARC's personal projects, we are building a fully customizable quadcopter. The initial design was built using a premade kit. Future plans with the quadcopter are to use it for aerial footage and test semi-autonomous/autonomous control.
